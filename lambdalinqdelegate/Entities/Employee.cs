@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace lambdalinqdelegate.Entities
+namespace ConsultaLINQ.Entities
 {
     class Employee
     {

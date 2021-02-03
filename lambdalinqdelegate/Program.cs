@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-using lambdalinqdelegate.Entities;
 using System.Linq;
+using ConsultaLINQ.Entities;
 
-namespace lambdalinqdelegate
+namespace ConsultaLINQ
 {
     class Program
     {
