@@ -9,3 +9,8 @@ fornecido pelo usuário.
 
 Mostra também a soma dos salários dos funcionários cujo
 nome começa com a letra 'M'.
+
+Exemplo:
+
+![Image of Example](https://i.ibb.co/6ydPP46/image.png)
+
